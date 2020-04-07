@@ -1,0 +1,73 @@
+body{
+    background-color: rosybrown;
+    color: #403D3B;
+    font-family: Sen, sans-serif;
+}
+
+img {
+  border: 3px solid rgb(219, 69, 69);
+  margin: 0;
+  padding: 0;
+  border-radius: 800px;
+  overflow: hidden;
+  }
+
+  video{
+    border: 5px solid  rgb(219, 69, 69);
+   
+  }
+
+
+  h1 {
+    color: rgb(219, 69, 69);
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid DodgerBlue;
+
+  }
+
+  p {
+    color: black;
+    font-weight: ;
+    font-size: 15px;
+    text-align: justify;
+  }
+  
+.name{
+  text-shadow: 0px 1px 5px rgba(127, 123, 117, .5);
+}
+
+.avatar{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: 10px ;
+}
+
+.desc{
+  color: #5C5854;
+}
+  
+.card{
+  margin: 4em auto;
+  padding: 1em;
+  min-height: 500px;
+  width: 400px;
+  background-color: #EDEEFF;
+  box-shadow: 0px 10px 10px 0px rgba(0,0,0, .4);
+  text-align: center;
+}
+
+li{
+  visibility: visible;
+  text-align: justify;
+}
+
+h3{
+  color: red;
+}
+
+h4{
+  text-align: justify;
+}
